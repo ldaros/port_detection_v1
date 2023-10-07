@@ -1,0 +1,56 @@
+item { 
+	name:'AUDIO'
+	id:1
+}
+item { 
+	name:'AUDIO_INPUT'
+	id:2
+}
+item { 
+	name:'AUDIO_OUTPUT'
+	id:3
+}
+item { 
+	name:'DISPLAYPORT'
+	id:4
+}
+item { 
+	name:'DVI'
+	id:5
+}
+item { 
+	name:'ETHERNET'
+	id:6
+}
+item { 
+	name:'HDMI'
+	id:7
+}
+item { 
+	name:'PARALLEL'
+	id:8
+}
+item { 
+	name:'POWER'
+	id:9
+}
+item { 
+	name:'PS'
+	id:10
+}
+item { 
+	name:'PS2'
+	id:11
+}
+item { 
+	name:'USB'
+	id:12
+}
+item { 
+	name:'USBC'
+	id:13
+}
+item { 
+	name:'VGA'
+	id:14
+}
