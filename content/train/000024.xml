@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>image</folder>
+  <filename>000024.jpeg</filename>
+  <path>./content/image/000024.jpeg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>800</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ETHERNET</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>242</xmin>
+      <ymin>402</ymin>
+      <xmax>539</xmax>
+      <ymax>637</ymax>
+    </bndbox>
+  </object>
+</annotation>
